@@ -74,6 +74,8 @@ function writeFile(answers) {
   
   * [Installation](#installation)
 
+  * [Preview](#preview)
+
   * [Usage](#usage)
 
   * [License](#license)
@@ -86,7 +88,10 @@ function writeFile(answers) {
 
 
 ## Installation
-${answers.installation}
+Run the following command(s): ${answers.installation}
+
+## Preview
+https://drive.google.com/file/d/1aunybY9bEBuyuI_lr3ecLSGzhz7__Uv3/view?usp=sharing
 
 ## Usage
 ${answers.usage}
@@ -98,7 +103,7 @@ This project is covered by the ${answers.license} license.
 ${answers.contributing}
 
 ## Tests
-${answers.tests}
+Run the following command(s): ${answers.tests}
 
 ## Questions
 Check me out on Github: [${answers.github}](https://github.com/${answers.github})

@@ -3,11 +3,13 @@
   [![License](https://img.shields.io/badge/License-MIT-blue.svg)]
 
   ## Description
-  A fast and simple way to generate a ReadMe
+  Create a ReadMe.md file super fast!
   
   ## Table of Contents
   
   * [Installation](#installation)
+
+  * [Preview](#preview)
 
   * [Usage](#usage)
 
@@ -21,19 +23,22 @@
 
 
 ## Installation
-npm i
+Run the following command(s): npm i
+
+## Preview
+https://drive.google.com/file/d/1aunybY9bEBuyuI_lr3ecLSGzhz7__Uv3/view?usp=sharing
 
 ## Usage
-To expedite the readme process
+To simplify and hasten the pace of ReadMe.md files
 
 ## License
 This project is covered by the MIT license.
 
 ## Contributing
-You can't
+People may not contribute to this repo.
 
 ## Tests
-npm test
+Run the following command(s): npm test
 
 ## Questions
 Check me out on Github: [penguinorange](https://github.com/penguinorange)
